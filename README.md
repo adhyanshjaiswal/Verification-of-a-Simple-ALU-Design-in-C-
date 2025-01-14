@@ -21,8 +21,11 @@ Choose an operation:
 
 ...
 10. One's Complement
+
 11. Two's Complement
+    
 ...
+
 Enter your choice: 10
 
 Enter a number: 15
