@@ -23,7 +23,9 @@ Choose an operation:
 11. Two's Complement
 ...
 Enter your choice: 10
+
 Enter a number: 15
+
 One's Complement (Binary): 11111111111111111111111111110000
 
 🧠 **Learning Objectives**
