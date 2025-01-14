@@ -20,6 +20,7 @@ Choose an operation:
 2. Subtraction
 
 ...
+
 10. One's Complement
 
 11. Two's Complement
