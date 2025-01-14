@@ -18,6 +18,7 @@ This project verifies an Arithmetic Logic Unit (ALU) using C++ by implementing i
 Choose an operation:
 1. Addition
 2. Subtraction
+
 ...
 10. One's Complement
 11. Two's Complement
