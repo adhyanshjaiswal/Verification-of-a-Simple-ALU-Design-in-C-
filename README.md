@@ -15,3 +15,24 @@ This project verifies an Arithmetic Logic Unit (ALU) using C++ by implementing i
 4. Run the executable: `./alu_test`.
 
 ## Sample Output
+Choose an operation:
+1. Addition
+2. Subtraction
+...
+10. One's Complement
+11. Two's Complement
+...
+Enter your choice: 10
+
+🧠 **Learning Objectives**
+Understand ALU operations and complement calculations.
+Gain hands-on experience with modular programming in C++.
+Learn formatted output techniques for binary and decimal results.
+Develop interactive C++ programs with user input.
+
+📁 **File Structure**
+alu.h: Declares the ALU class and its functions.
+alu.cpp: Implements the ALU operations.
+testbench.cpp: Manages user interaction and testing of ALU functions.
+Enter a number: 15
+One's Complement (Binary): 11111111111111111111111111110000
